@@ -198,7 +198,7 @@
                 </div>
             </div>
         </div>
-        <div class="bg-gray-800/50 rounded-lg overflow-hidden">
+        {{-- <div class="bg-gray-800/50 rounded-lg overflow-hidden">
 
             <div class="relative bg-gray-700/50 w-full h-64 sm:h-80 flex items-center justify-center overflow-hidden">
                 <img src="{{ asset('images/portfolio-v1.png') }}" loading="lazy" alt="Portfolio Image"
@@ -227,6 +227,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 </section>
