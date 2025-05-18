@@ -2,9 +2,10 @@
     <h2 class="text-3xl font-bold mb-12 border-b border-purple-600/50 pb-4 inline-block">Projects</h2>
     <div class="grid md:grid-cols-2 gap-8">
         <div class="bg-gray-800/50 rounded-lg overflow-hidden">
-            <div class="h-80 relative">
-                <img src="{{ asset('images/cmu-sroi.png') }}" loading="lazy" alt="" class="object-cover"
-                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent; object-position: top;">
+            <div class="relative bg-gray-700/50 w-full h-64 sm:h-80 flex items-center justify-center overflow-hidden">
+                <img src="{{ asset('images/cmu-sroi.png') }}" loading="lazy" alt=""
+                    class="w-full h-full object-contain sm:object-cover sm:object-top"
+                    style="position: absolute; inset: 0px; color: transparent;">
             </div>
             <div class="p-6">
                 <h3 class="text-xl font-bold mb-2 flex items-center">
@@ -39,9 +40,10 @@
             </div>
         </div>
         <div class="bg-gray-800/50 rounded-lg overflow-hidden">
-            <div class="h-80 relative">
-                <img src="{{ asset('images/travel-auth.png') }}" loading="lazy" alt="" class="object-cover"
-                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent; object-position: top;">
+            <div class="relative bg-gray-700/50 w-full h-64 sm:h-80 flex items-center justify-center overflow-hidden">
+                <img src="{{ asset('images/travel-auth.png') }}" loading="lazy" alt=""
+                    class="w-full h-full object-contain sm:object-cover sm:object-top"
+                    style="position: absolute; inset: 0px; color: transparent;">
             </div>
             <div class="p-6">
                 <h3 class="text-xl font-bold mb-2 flex items-center">
@@ -76,9 +78,10 @@
             </div>
         </div>
         <div class="bg-gray-800/50 rounded-lg overflow-hidden">
-            <div class="h-80 relative">
-                <img src="{{ asset('images/project-rmutl.png') }}" loading="lazy" alt="" class="object-cover"
-                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent; object-position: top;">
+            <div class="relative bg-gray-700/50 w-full h-64 sm:h-80 flex items-center justify-center overflow-hidden">
+                <img src="{{ asset('images/project-rmutl.png') }}" loading="lazy" alt=""
+                    class="w-full h-full object-contain sm:object-cover sm:object-top"
+                    style="position: absolute; inset: 0px; color: transparent;">
             </div>
             <div class="p-6">
                 <h3 class="text-xl font-bold mb-2 flex items-center">
@@ -118,9 +121,10 @@
             </div>
         </div>
         <div class="bg-gray-800/50 rounded-lg overflow-hidden">
-            <div class="h-80 relative">
-                <img src="{{ asset('images/hhk.png') }}" loading="lazy" alt="" class="object-cover"
-                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent; object-position: top;">
+            <div class="relative bg-gray-700/50 w-full h-64 sm:h-80 flex items-center justify-center overflow-hidden">
+                <img src="{{ asset('images/hhk.png') }}" loading="lazy" alt=""
+                    class="w-full h-full object-contain sm:object-cover sm:object-top"
+                    style="position: absolute; inset: 0px; color: transparent;">
             </div>
             <div class="p-6">
                 <h3 class="text-xl font-bold mb-2 flex items-center">
@@ -156,9 +160,10 @@
             </div>
         </div>
         <div class="bg-gray-800/50 rounded-lg overflow-hidden">
-            <div class="h-80 relative">
-                <img src="{{ asset('images/pos.png') }}" loading="lazy" alt="" class="object-cover"
-                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent; object-position: top;">
+            <div class="relative bg-gray-700/50 w-full h-64 sm:h-80 flex items-center justify-center overflow-hidden">
+                <img src="{{ asset('images/pos.png') }}" loading="lazy" alt=""
+                    class="w-full h-full object-contain sm:object-cover sm:object-top"
+                    style="position: absolute; inset: 0px; color: transparent;">
             </div>
             <div class="p-6">
                 <h3 class="text-xl font-bold mb-2 flex items-center">
@@ -194,9 +199,11 @@
             </div>
         </div>
         <div class="bg-gray-800/50 rounded-lg overflow-hidden">
-            <div class="h-80 relative">
-                <img src="{{ asset('images/portfolio-v1.png') }}" loading="lazy" alt="" class="object-cover"
-                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent; object-position: top;">
+
+            <div class="relative bg-gray-700/50 w-full h-64 sm:h-80 flex items-center justify-center overflow-hidden">
+                <img src="{{ asset('images/portfolio-v1.png') }}" loading="lazy" alt="Portfolio Image"
+                    class="w-full h-full object-contain sm:object-cover sm:object-top"
+                    style="position: absolute; inset: 0px; color: transparent;">
             </div>
             <div class="p-6">
                 <h3 class="text-xl font-bold mb-2 flex items-center">

@@ -3,10 +3,13 @@
     <div class="space-y-12">
         <div class="grid md:grid-cols-[200px_1fr] gap-4">
             <div class="text-gray-400 mt-1">Jul 2024 — Present</div>
-            <div class="ps-20">
-                <h3 class="text-xl font-bold flex items-center">Computer Technical Officer <span
-                        class="rounded-full text-sm ms-4 bg-purple-600 py-1.5 px-2">Multidisciplinary
-                        Research Institute Chiang Mai University</span></h3>
+            <div class="ps-4 md:ps-20">
+                <h3 class="text-xl font-bold flex items-center">
+                    Computer Technical Officer
+                    <span class="rounded-full text-sm ms-4 bg-purple-600 py-1.5 px-2">
+                        MDRI CMU
+                    </span>
+                </h3>
                 <ul class="my-4 mx-4 list-disc">
                     <li>
                         Develop and maintain the organization's website to ensure optimal performance.
@@ -37,7 +40,7 @@
         </div>
         <div class="grid md:grid-cols-[200px_1fr] gap-4">
             <div class="text-gray-400 mt-1">Jan 2024 — Jun 2024</div>
-            <div class="ps-20">
+            <div class="ps-4 md:ps-20">
                 <h3 class="text-xl font-bold flex items-center">Full Stack Developer<span
                         class="rounded-full text-sm ms-4 bg-purple-600 py-1.5 px-2">Freelance</span></h3>
                 <ul class="my-4 mx-4 list-disc">
@@ -72,7 +75,7 @@
         </div>
         <div class="grid md:grid-cols-[200px_1fr] gap-4">
             <div class="text-gray-400 mt-1">Jun 2019 — Jul 2019</div>
-            <div class="ps-20">
+            <div class="ps-4 md:ps-20">
                 <h3 class="text-xl font-bold flex items-center">WordPress Developer (Intern)<span
                         class="rounded-full text-sm ms-4 bg-purple-600 py-1.5 px-2">Greyscale Digital co.
                         ltd</span></h3>
