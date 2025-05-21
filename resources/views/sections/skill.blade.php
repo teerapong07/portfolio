@@ -8,42 +8,42 @@
             <!-- Tech Stack Items -->
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/laravel.jpg') }}" alt="Laravel" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/laravel.webp') }}" alt="Laravel" class="w-10 h-10 rounded-md" />
                 <span class="text-white">Laravel</span>
             </div>
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/php.jpg') }}" alt="PHP" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/php.webp') }}" alt="PHP" class="w-10 h-10 rounded-md" />
                 <span class="text-white">PHP</span>
             </div>
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/nodejs.jpg') }}" alt="Node.js" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/nodejs.webp') }}" alt="Node.js" class="w-10 h-10 rounded-md" />
                 <span class="text-white">Node.js (Basic)</span>
             </div>
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/expressjs.jpg') }}" alt="Express.js" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/expressjs.webp') }}" alt="Express.js" class="w-10 h-10 rounded-md" />
                 <span class="text-white">Express.js (Basic)</span>
             </div>
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/mysql.jpg') }}" alt="MySQL" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/mysql.webp') }}" alt="MySQL" class="w-10 h-10 rounded-md" />
                 <span class="text-white">MySQL</span>
             </div>
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/mongodb.jpg') }}" alt="MongoDB" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/mongodb.webp') }}" alt="MongoDB" class="w-10 h-10 rounded-md" />
                 <span class="text-white">MongoDB (Basic)</span>
             </div>
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/bootstrap.jpg') }}" alt="Bootstrap" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/bootstrap.webp') }}" alt="Bootstrap" class="w-10 h-10 rounded-md" />
                 <span class="text-white">Bootstrap</span>
             </div>
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/tailwindcss.jpg') }}" alt="Tailwind CSS" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/tailwindcss.webp') }}" alt="Tailwind CSS" class="w-10 h-10 rounded-md" />
                 <span class="text-white">Tailwind CSS</span>
             </div>
         </div>
@@ -58,17 +58,17 @@
             <!-- Tools Items -->
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/git.jpg') }}" alt="Git" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/git.webp') }}" alt="Git" class="w-10 h-10 rounded-md" />
                 <span class="text-white">Git</span>
             </div>
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/docker.jpg') }}" alt="Docker" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/docker.webp') }}" alt="Docker" class="w-10 h-10 rounded-md" />
                 <span class="text-white">Docker (Basic)</span>
             </div>
             <div
                 class="bg-gray-700/60 p-4 rounded-lg flex items-center space-x-3 transform transition-all">
-                <img src="{{ asset('images/icon/postman.jpg') }}" alt="Postman" class="w-10 h-10 rounded-md" />
+                <img src="{{ asset('images/icon/postman.webp') }}" alt="Postman" class="w-10 h-10 rounded-md" />
                 <span class="text-white">Postman</span>
             </div>
         </div>

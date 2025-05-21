@@ -35,8 +35,8 @@
                 </div>
                 <div class="p-8">
                     <p class="text-gray-300 mb-8 text-lg">
-                        I am a Full Stack Developer with over 1 year of experience working with PHP. I graduated from
-                        Rajamangala University of Technology Lanna and currently work at the Multidisciplinary Research
+                        I am a Full Stack Developer with over 1 year of experience working with PHP. 
+                        I graduated from Rajamangala University of Technology Lanna and currently work at the Multidisciplinary Research
                         Institute, Chiang Mai University, as a Full Stack Developer and IT Support.
                     </p>
                     <p class="text-gray-300 mb-8 text-lg">
