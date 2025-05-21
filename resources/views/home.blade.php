@@ -5,6 +5,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description"
+        content="Explore the portfolio of Teerapong, a Full Stack Developer specializing in PHP, Laravel, Node.js, and MySQL. Experienced in building internal systems and modern web applications.">
+    <meta name="keywords"
+        content="Full Stack Developer, PHP, Laravel, Node.js, MySQL, Web Developer, Portfolio, Chiang Mai, Teerapong">
+    <meta name="author" content="Teerapong">
+
+    <meta property="og:title" content="Teerapong | Full Stack Developer Portfolio">
+    <meta property="og:description"
+        content="Check out the works and skills of Teerapong, a Full Stack Developer experienced in PHP, Laravel, Node.js, and MySQL.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.teerapongdev.com">
+    <meta property="og:image" content="{{ asset('images/og-image.png') }}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Teerapong | Full Stack Developer Portfolio">
+    <meta name="twitter:description"
+        content="Check out the works and skills of Teerapong, a Full Stack Developer experienced in PHP, Laravel, Node.js, and MySQL.">
+    <meta name="twitter:image" content="{{ asset('images/og-image.png') }}">
+
     <title>Teerapong - Portfolio</title>
     <link rel="icon" href="{{ asset('favicon.ico') }}">
     @vite('resources/css/app.css')
@@ -35,8 +54,9 @@
                 </div>
                 <div class="p-8">
                     <p class="text-gray-300 mb-8 text-lg">
-                        I am a Full Stack Developer with over 1 year of experience working with PHP. 
-                        I graduated from Rajamangala University of Technology Lanna and currently work at the Multidisciplinary Research
+                        I am a Full Stack Developer with over 1 year of experience working with PHP.
+                        I graduated from Rajamangala University of Technology Lanna and currently work at the
+                        Multidisciplinary Research
                         Institute, Chiang Mai University, as a Full Stack Developer and IT Support.
                     </p>
                     <p class="text-gray-300 mb-8 text-lg">
@@ -79,7 +99,7 @@
 
             {{-- Section Skills --}}
             @include('sections.skill')
-            
+
             {{-- Section Contact --}}
             @include('sections.contact')
         </div>
